@@ -16,7 +16,7 @@ React Weather App
 
 Mini Weather provides real-time weather information for different locations. This app is built using React JS, a popular JavaScript library for building user interfaces, and an API that provides weather data for various locations.
 
-Real-time weather and geolocation [API](https://www.weatherapi.com/)
+Real-time weather and geolocation [API](https://www.weatherapi.com/).
 
 ## Development setup
 
